@@ -5,7 +5,7 @@ from pydub import AudioSegment
 from pydub.playback import play
 
 
-genai.configure(api_key="AIzaSyDy59cCQyu38wVj55e92kafXawRA_ZoAbM")
+genai.configure(api_key="")
 
 
 r = sr.Recognizer()
