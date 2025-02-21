@@ -1,4 +1,4 @@
-This is a gemini script speaking bot that speaks lines of a specific charecter "Cheetos" had made this for ODM but didnt get selected.
+*This is a gemini script speaking bot that speaks lines of a specific charecter "Cheetos" had made this for ODM but didnt get selected.*
 :(
 
 
